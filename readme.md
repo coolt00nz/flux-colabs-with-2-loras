@@ -2,8 +2,8 @@
 
 Google Colab notebooks for running Flux models with support for up to two LoRAs:
 
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/coolt00nz/flux-colabs-with-2-loras/blob/main/flux_pruned_checkpoint_2_lora.ipynb) **Pruned Checkpoint**: Uses UNET-only Flux fp8 checkpoint (~11GB or smaller)
-2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/coolt00nz/flux-colabs-with-2-loras/blob/main/flux_full_checkpoint_2_lora.ipynb) **Full Checkpoint**: Uses complete Flux fp8 checkpoint with UNET, VAE, and CLIP (~16GB or smaller)
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/coolt00nz/flux-colabs-with-2-loras/blob/main/flux_pruned_checkpoint_2_lora.ipynb) **Pruned Checkpoint**: Uses UNET-only Flux fp8 checkpoint (~11GB or smaller)
+2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/coolt00nz/flux-colabs-with-2-loras/blob/main/flux_full_checkpoint_2_lora.ipynb) **Full Checkpoint**: Uses complete Flux fp8 checkpoint with UNET, VAE, and CLIP (~16GB or smaller)
 
 ![Flux Demo Image](unet_flux.png)
 
